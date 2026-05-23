@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [CryptoSphere Tracker](https://github.com/YOUR_USERNAME/CryptoSphere-Tracker) | Real-time crypto tracking app | Kotlin, Compose, Room, Hilt, WorkManager |
+| [CryptoSphere Tracker](https://github.com/Konstantinbadto/CryptoSphere-Tracker) | Real-time crypto tracking app | Kotlin, Compose, Room, Hilt, WorkManager |
 
 ---
 
